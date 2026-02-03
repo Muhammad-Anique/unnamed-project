@@ -1,0 +1,30 @@
+{
+  "name": "unnamed-project",
+  "version": "1.0.0",
+  "description": "A comprehensive project template awaiting PRD for complete architecture design",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Development server will be configured once tech stack is determined'",
+    "build": "echo 'Build process will be configured once tech stack is determined'",
+    "start": "echo 'Start script will be configured once tech stack is determined'",
+    "test": "echo 'Test framework will be configured once tech stack is determined'",
+    "lint": "echo 'Linting will be configured once tech stack is determined'",
+    "setup": "node scripts/setup.js"
+  },
+  "keywords": [
+    "full-stack",
+    "web-application",
+    "template",
+    "architecture"
+  ],
+  "author": "Muhammad Anique <your-email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muhammad-Anique/unnamed-project.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
